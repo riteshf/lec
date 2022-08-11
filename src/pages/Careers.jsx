@@ -1,7 +1,7 @@
 import React from "react";
 
 const Careers = () => {
-  return <div>Careers</div>;
+  return <div>Random Page without auth</div>;
 };
 
 export default Careers;

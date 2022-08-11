@@ -3,8 +3,7 @@ import React from "react";
 const Home = () => {
   return (
     <div>
-      Hello: Build 1:
-      <h1>Heroku: git</h1>
+      <h1>Homepage without auth</h1>
     </div>
   );
 };
